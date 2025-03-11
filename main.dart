@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'tutorial_11-2.dart';
-// Import file tutorial_11-1.dart
+import 'package:flutter_application_1/tutorial_11_2.dart';
+import 'tutorial_11-1.dart';
 
 void main() {
   runApp(const MyApp()); // Gunakan MyApp sebagai root aplikasi
